@@ -261,6 +261,32 @@ export const gifts = [
     price: 1000000,
     category: "Luna de Miel",
     image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=400&h=300&fit=crop"
+  },
+
+  // Super Regalos
+  {
+    id: 36,
+    name: "Suite de Lujo",
+    description: "Una noche en suite premium con vista increíble",
+    price: 1500000,
+    category: "Luna de Miel",
+    image: "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400&h=300&fit=crop"
+  },
+  {
+    id: 37,
+    name: "Aventura Completa",
+    description: "Pack de excursiones y experiencias únicas en el destino",
+    price: 2000000,
+    category: "Luna de Miel",
+    image: "https://images.unsplash.com/photo-1682687220742-aba13b6e50ba?w=400&h=300&fit=crop"
+  },
+  {
+    id: 38,
+    name: "Luna de Miel Soñada",
+    description: "Contribución especial para hacer nuestra luna de miel inolvidable",
+    price: 3000000,
+    category: "Luna de Miel",
+    image: "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=400&h=300&fit=crop"
   }
 ];
 
