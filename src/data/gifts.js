@@ -4,7 +4,7 @@ export const gifts = [
     id: 1,
     name: "Set de Copas de Vino",
     description: "Elegantes copas de cristal para nuestro nuevo hogar",
-    price: 16000,
+    price: 20000,
     category: "Hogar",
     image: "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=400&h=300&fit=crop"
   },
@@ -54,7 +54,7 @@ export const gifts = [
     id: 8,
     name: "Juego de Sábanas",
     description: "Sábanas de algodón premium con fundas de almohada",
-    price: 50000,
+    price: 150000,
     category: "Dormitorio",
     image: "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=400&h=300&fit=crop"
   },
@@ -68,9 +68,9 @@ export const gifts = [
   },
   {
     id: 10,
-    name: "Batería de Cocina",
-    description: "Set de ollas y sartenes de acero inoxidable",
-    price: 110000,
+    name: "Estantería de Cocina",
+    description: "Mueble de cocina para almacenar nuestros utensilios",
+    price: 310000,
     category: "Cocina",
     image: "https://images.unsplash.com/photo-1584568694244-14fbdf83bd30?w=400&h=300&fit=crop"
   },
@@ -78,7 +78,7 @@ export const gifts = [
     id: 12,
     name: "Juego de Toallas",
     description: "Set completo de toallas de algodón egipcio",
-    price: 44000,
+    price: 95000,
     category: "Dormitorio",
     image: "https://images.unsplash.com/photo-1616627561839-074385245ff6?w=400&h=300&fit=crop"
   },
