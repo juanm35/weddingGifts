@@ -33,14 +33,6 @@ export const gifts = [
     image: "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?w=400&h=300&fit=crop"
   },
   {
-    id: 5,
-    name: "Tabla de Cortar",
-    description: "Tabla de madera artesanal para la cocina",
-    price: 12000,
-    category: "Cocina",
-    image: "https://images.unsplash.com/photo-1544441893-675973e31985?w=400&h=300&fit=crop"
-  },
-  {
     id: 6,
     name: "Set de Tazas",
     description: "Tazas de cerámica para el desayuno",
@@ -83,14 +75,6 @@ export const gifts = [
     image: "https://images.unsplash.com/photo-1584568694244-14fbdf83bd30?w=400&h=300&fit=crop"
   },
   {
-    id: 11,
-    name: "Canasta de Picnic",
-    description: "Set completo de picnic para salidas románticas",
-    price: 30000,
-    category: "Experiencias",
-    image: "https://images.unsplash.com/photo-1526478806334-5fd488fcaabc?w=400&h=300&fit=crop"
-  },
-  {
     id: 12,
     name: "Juego de Toallas",
     description: "Set completo de toallas de algodón egipcio",
@@ -129,14 +113,6 @@ export const gifts = [
     price: 50000,
     category: "Dormitorio",
     image: "https://images.unsplash.com/photo-1584100936595-c0654b55a2e2?w=400&h=300&fit=crop"
-  },
-  {
-    id: 17,
-    name: "Vajilla Completa",
-    description: "Set de platos, bowls y fuentes para 6 personas",
-    price: 45000,
-    category: "Cocina",
-    image: "https://images.unsplash.com/photo-1603199506016-5f36e6d10b78?w=400&h=300&fit=crop"
   },
   {
     id: 18,
