@@ -20,7 +20,7 @@ export const gifts = [
     id: 4,
     name: "Porta Retratos",
     description: "Set de marcos para fotos de nuestros mejores momentos",
-    price: 18000,
+    price: 50000,
     category: "Hogar",
     image: "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?w=400&h=300&fit=crop"
   },
@@ -54,7 +54,7 @@ export const gifts = [
     id: 9,
     name: "Cafetera Express",
     description: "Cafetera espresso para nuestros rituales matutinos",
-    price: 180000,
+    price: 250000,
     category: "Cocina",
     image: "https://images.unsplash.com/photo-1517668808822-9ebb02f2a0e6?w=400&h=300&fit=crop"
   },
