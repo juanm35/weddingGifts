@@ -41,7 +41,7 @@ export const gifts = [
     image: "https://images.unsplash.com/photo-1459411552884-841db9b3cc2a?w=400&h=300&fit=crop"
   },
 
-  // Regalos medianos ($40.000 - $120.000)
+  // Regalos medianos ($40.000 - $120.000) 
   {
     id: 8,
     name: "Juego de Sábanas",
