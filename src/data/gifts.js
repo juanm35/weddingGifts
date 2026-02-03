@@ -112,7 +112,7 @@ export const gifts = [
     id: 21,
     name: "Día de Spa para Dos",
     description: "Experiencia relajante de spa antes del gran día",
-    price: 200000,
+    price: 160000,
     category: "Experiencias",
     image: "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?w=400&h=300&fit=crop"
   },
@@ -192,7 +192,7 @@ export const gifts = [
     id: 33,
     name: "Masaje en Pareja",
     description: "Sesión de masajes relajantes durante el viaje",
-    price: 110000,
+    price: 200000,
     category: "Luna de Miel",
     image: "https://images.unsplash.com/photo-1600334129128-685c5582fd35?w=400&h=300&fit=crop"
   },
